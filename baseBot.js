@@ -13,7 +13,9 @@ class BaseBot {
     }
 
     memorize(number) { // number sarà 0 o 1 = l'ultimo comportamento dell'avversario
-        
+
     }
 
 }
+
+module.exports = BaseBot;
